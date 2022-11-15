@@ -1,0 +1,9 @@
+- Attempt to signup using strong password
+  1. Fill username using mailinator (testing mail)  
+  2. Fill password field using strong pasword 
+  3. If its passed, then he signup button should be turned to red button
+
+- Attempt to signup using weak password
+  1. Fill username using mailinator (testing mail)  
+  2. Fill password field using weak pasword 
+  3. If its passed, then he signup button should be turned to grey button (disabled)
